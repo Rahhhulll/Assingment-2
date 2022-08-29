@@ -1,0 +1,20 @@
+.container{
+
+    border:  2px solid black;
+   
+    margin: 4px;
+    padding: 23px;
+    display: inline-block;
+    box-sizing: border-box;
+    display: grid;
+   
+    grid-template-columns: auto auto auto;
+    background-color: #2196F3;
+    padding: 10px;
+}
+
+h1{
+    border: solid back 3px;
+    text-align: center;
+    display: block;
+}
